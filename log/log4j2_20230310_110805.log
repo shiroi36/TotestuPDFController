@@ -1,0 +1,106 @@
+2023-03-10 11:08 INFO  SocketTest.server :
+                 ----------受信テストパッケージ開始---------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                     myIPsetting.xml：ポート番号：11000 
+2023-03-10 11:08 INFO  SocketTest.server :
+                     myIPsetting.xml：実行プログラム一覧&Runnable作成 
+2023-03-10 11:08 INFO  SocketTest.server :
+                     myIPsetting.xml：(0 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 11:08 INFO  SocketTest.server :
+                     myIPsetting.xml：(1 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：：受信しました： 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：「0」を受信しました。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   ファイル      ：[0][files\totetuPDFcontroller_start.bat]を認識しました 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：trueで過去実行スレッドが作業中・・・false 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：終了します。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：[0][files\totetuPDFcontroller_start.bat]Fri Mar 10 11:08:09 JST 2023 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：実行します：files\totetuPDFcontroller_start.bat 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：：受信しました： 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：「0」を受信しました。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   ファイル      ：[0][files\totetuPDFcontroller_start.bat]を認識しました 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：trueで過去実行スレッドが作業中・・・true 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：同じファイルが動作中のため、信号[0]はスキップ 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：終了します。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：：受信しました： 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：「0」を受信しました。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   ファイル      ：[0][files\totetuPDFcontroller_start.bat]を認識しました 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：trueで過去実行スレッドが作業中・・・true 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：同じファイルが動作中のため、信号[0]はスキップ 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：終了します。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：[0][files\totetuPDFcontroller_start.bat]Fri Mar 10 11:08:09 JST 2023 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：実行終了しました：files\totetuPDFcontroller_start.bat 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：：受信しました： 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：「1」を受信しました。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   ファイル      ：[1][files\totetuPDFcontroller_start.bat]を認識しました 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：trueで過去実行スレッドが作業中・・・false 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：終了します。 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：[1][files\totetuPDFcontroller_start.bat]Fri Mar 10 11:08:52 JST 2023 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:08 INFO  SocketTest.server :
+                   **割り込み    ：実行します：files\totetuPDFcontroller_start.bat 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:08 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 

@@ -1,0 +1,24 @@
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //送受信テストパッケージ開始 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //ポート番号：11000 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //[0, 1] 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //[files\start.bat, files\start.bat] 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //「0」を受信しました。 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //実行します：files\start.bat 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //一応10秒待ちます 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //受信完了 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //「1」を受信しました。 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //実行します：files\start.bat 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //一応10秒待ちます 
+2023-03-09 21:21 INFO  SocketTest.server :
+                 //受信完了 

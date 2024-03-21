@@ -1,0 +1,76 @@
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310766_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H446X199X8/12,9.0M,1,4,9,5274,U9-0098,363,459,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310784_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H446X199X8/12,7.0M,-,1,1,456,U9-0096,372,475,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0096, 10, 20, 63, 14, 9, 24] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310785_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H446X199X8/121,10.0M,2,2,12,7812,U9-0100,362,462,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-30605_20230530_310767_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H30605 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H450X200X9/14,9.0M,-,1,1,674,U9-0088,368,469,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0088, 11, 20, 42, 23, 12, 24] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310794_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H582X300X12/17,7.0M,-,1,1,931,U9-0058,309,435,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0058, 10, 19, 42, 19, 10, 21] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310795_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 →[H588X300X12/20,7.0M,1,-,3,3087,U9-0030,322,441,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any> 
+2023-06-06 15:33 ERROR totetsuH.TotetsuHsectionController :
+                 東鉄のPDFではありません。 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310800_20230601.pdf 
+2023-06-06 15:33 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 

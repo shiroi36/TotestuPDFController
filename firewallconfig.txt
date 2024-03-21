@@ -1,0 +1,8 @@
+
+
+①javaのアプリはすべてアクセスを許可する。
+https://faq.maplesoft.com/s/article/How-to-allow-Java-through-the-Windows-firewall-to-allow-Maple-to-launch?language=en_US
+
+
+②ポート開放する。
+https://office-hack.com/windows/windows10-open-port/

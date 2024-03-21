@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration>
+<Configuration xmlns:xi="http://www.w3.org/2001/XInclude" packages="appender" status="WARN">
+<!-- <Configuration status="WARN"> -->
+	<Properties>
+		<!-- <Property name="ptn">%d{yyyy-MM-dd HH:mm:ss.SSS} p=%-5p c=%c t=%t C=%C F=%F M=%M L=%L m=%m %n</Property> -->
+		<Property name="ptn">%d{yyyy-MM-dd HH:mm} %-5p %c :%n                 %msg %n</Property>
+	</Properties>
+	<Appenders>
+		<MyConsoleAppender name="MyConsoleAppender" />
+
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout pattern="${ptn}" />
+		</Console>
+
+		<RollingFile name="file" fileName="log/log4j2_${date:yyyyMMdd_HHmmss}.log"
+			filePattern="log/%d{yyyyMM}/log4j2_%d{yyyyMMdd}_%i.log">
+			<PatternLayout pattern="${ptn}" />
+			<Policies>
+				<OnStartupTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="2 MB" />
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+
+	</Appenders>
+	<Loggers>
+		<Root level="all">
+			<!-- <AppenderRef ref="console" /> -->
+			<AppenderRef ref="file" />
+			<AppenderRef ref="MyConsoleAppender" />
+		</Root>
+	</Loggers>
+</Configuration>

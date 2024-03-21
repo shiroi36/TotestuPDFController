@@ -1,0 +1,266 @@
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-21606_20220818_229396_20220823.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2022/8/18＿受注番号：1H21606 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-6451, 11, 22, 43, 18, 13, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-6460, 11, 20, 43, 23, 13, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-6683, 10, 21, 42, 18, 12, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-6693, 10, 20, 46, 26, 13, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-6997, 9, 21, 41, 20, 9, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U7-7002, 9, 20, 44, 18, 11, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,7.0M,-,2,2,1302,U7-6451,351,452,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-6451, 11, 22, 43, 18, 13, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,7.0M,-,1,1,651,U7-6460,336,449,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-6460, 11, 20, 43, 23, 13, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,8.0M,1,-,3,2232,U7-6683,343,451,-,30,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-6683, 10, 21, 42, 18, 12, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,8.0M,3,-,9,6696,U7-6693,347,454,-,25,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-6693, 10, 20, 46, 26, 13, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,8.0M,2,-,6,4464,U7-6997,339,436,-,30,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-6997, 9, 21, 41, 20, 9, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H300X300X10/15,9.0M,2,-,6,5022,U7-7002,335,439,-,31,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U7-7002, 9, 20, 44, 18, 11, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310766_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0099, 11, 21, 45, 26, 15, 26] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,9.0M,1,4,9,5274,U9-0098,363,459,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,9.0M,1,1,6,3516,U9-0099,378,481,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0099, 11, 21, 45, 26, 15, 26] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,9.0M,1,-,5,2930,U9-0100,362,462,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310784_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0096, 10, 20, 63, 14, 9, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0101, 9, 20, 42, 21, 8, 20] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0097, 9, 20, 43, 22, 12, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,7.0M,-,1,1,456,U9-0096,372,475,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0096, 10, 20, 63, 14, 9, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,7.0M,-,3,3,1368,U9-0098,363,459,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,7.0M,-,4,4,1824,U9-0100,362,462,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/12,7.0M,-,2,2,912,U9-0101,359,456,-,31,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0101, 9, 20, 42, 21, 8, 20] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,10.0M,-,2,2,1302,U9-0096,372,475,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0096, 10, 20, 63, 14, 9, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,10.0M,-,3,3,1953,U9-0097,355,462,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0097, 9, 20, 43, 22, 12, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,10.0M,-,1,1,651,U9-0098,363,459,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0098, 8, 21, 44, 29, 10, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-28742_20230530_310785_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H28742 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0101, 9, 20, 42, 21, 8, 20] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0097, 9, 20, 43, 22, 12, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,10.0M,2,2,12,7812,U9-0100,362,462,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0100, 10, 20, 43, 18, 14, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,10.0M,-,2,2,1302,U9-0101,359,456,-,31,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0101, 9, 20, 42, 21, 8, 20] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H446X199X8/121,13.0M,2,-,10,8460,U9-0097,355,462,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0097, 9, 20, 43, 22, 12, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 11-ミルシート_1H-30605_20230530_310767_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H30605 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0088, 11, 20, 42, 23, 12, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0093, 10, 21, 43, 24, 14, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0094, 8, 20, 66, 20, 12, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0092, 10, 21, 42, 20, 11, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H450X200X9/14,9.0M,-,1,1,674,U9-0088,368,469,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0088, 11, 20, 42, 23, 12, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H450X200X9/14,9.0M,-,3,3,2022,U9-0093,366,463,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0093, 10, 21, 43, 24, 14, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H450X200X9/14,9.0M,-,1,1,674,U9-0094,373,471,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0094, 8, 20, 66, 20, 12, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H450X200X9/141,10.0M,2,-,10,7490,U9-0092,365,462,-,30,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0092, 10, 21, 42, 20, 11, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H450X200X9/141,10.0M,1,-,5,3745,U9-0093,366,463,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0093, 10, 21, 43, 24, 14, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310794_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0058, 10, 19, 42, 19, 10, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0059, 10, 19, 43, 17, 13, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H582X300X12/17,7.0M,-,1,1,931,U9-0058,309,435,-,27,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0058, 10, 19, 42, 19, 10, 21] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H582X300X12/17,7.0M,1,2,5,4655,U9-0059,309,431,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0059, 10, 19, 43, 17, 13, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310795_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0047, 11, 29, 42, 15, 7, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0048, 11, 23, 43, 22, 6, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,1,-,3,3087,U9-0030,322,441,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,4,-,12,12348,U9-0047,333,454,-,25,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0047, 11, 29, 42, 15, 7, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,2,-,6,6174,U9-0048,339,451,-,23,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0048, 11, 23, 43, 22, 6, 24] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310800_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0047, 11, 29, 42, 15, 7, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0049, 9, 20, 47, 29, 12, 25] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0029, 10, 21, 41, 25, 8, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,2,-,6,6174,U9-0030,322,441,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,-,2,2,2058,U9-0047,333,454,-,25,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0047, 11, 29, 42, 15, 7, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,7.0M,2,1,7,7203,U9-0049,322,446,-,26,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0049, 9, 20, 47, 29, 12, 25] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,8.0M,1,-,3,3528,U9-0030,322,441,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,9.0M,-,2,2,2646,U9-0029,331,442,-,28,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0029, 10, 21, 41, 25, 8, 23] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,9.0M,-,1,1,1323,U9-0030,322,441,-,29,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0030, 9, 21, 41, 22, 8, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 ------------------------------------------------------------- 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 43-ミルシート_1H-27850_20230530_310801_20230601.pdf 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 発行日：2023/5/30＿受注番号：1H27850 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0049, 9, 20, 47, 29, 12, 25] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                 chargeNo: [U9-0051, 9, 19, 44, 19, 10, 22] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,9.0M,-,2,2,2646,U9-0049,322,446,-,26,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0049, 9, 20, 47, 29, 12, 25] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                   [H588X300X12/20,9.0M,-,1,1,1323,U9-0051,319,442,-,26,-,-,-,-,-,-,-,-,-,-,G] 
+2023-06-06 17:06 INFO  totetsuH.TotetsuHsectionController :
+                     chargeNo: [U9-0051, 9, 19, 44, 19, 10, 22] 

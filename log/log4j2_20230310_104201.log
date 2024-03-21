@@ -1,0 +1,30 @@
+2023-03-10 10:42 INFO  SocketTest.server :
+                 ----------受信テストパッケージ開始---------- 
+2023-03-10 10:42 INFO  SocketTest.server :
+                     myIPsetting.xml：ポート番号：11000 
+2023-03-10 10:42 INFO  SocketTest.server :
+                     myIPsetting.xml：実行プログラム一覧&Runnable作成 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 myIPsetting.xml：(0 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 myIPsetting.xml：(1 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：接続開始します： 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：：受信しました： 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：「0」を受信しました。 
+2023-03-10 10:42 INFO  SocketTest.server :
+                   ファイル      ：[0][files\totetuPDFcontroller_start.bat]を認識しました 
+2023-03-10 10:42 INFO  SocketTest.server :
+                   ファイル      ：trueで過去実行スレッドが作業中・・・false 
+2023-03-10 10:42 INFO  SocketTest.server :
+                   ファイル      ：実行します：files\totetuPDFcontroller_start.bat 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：終了します。 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 10:42 INFO  SocketTest.server :
+                 サーバー       ：接続開始します： 

@@ -1,0 +1,14 @@
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //送受信テストパッケージ開始 
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //ポート番号：11000 
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //[0, 1] 
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //[files\totetuPDFcontroller, files\totetuPDFcontroller] 
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //「0」を受信しました。 
+2023-03-09 22:14 INFO  SocketTest.server :
+                 //実行します：files\totetuPDFcontroller 
+2023-03-09 22:14 ERROR SocketTest.server :
+                 //Cannot run program "files\totetuPDFcontroller": CreateProcess error=2, 指定されたファイルが見つかりません。 

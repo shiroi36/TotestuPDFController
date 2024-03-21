@@ -1,0 +1,36 @@
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //送受信テストパッケージ開始 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //ポート番号：11000 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //[0, 1] 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //[null, null] 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //「0」を受信しました。 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行します：null 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //cmd.exe /c call null 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行中 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行終了 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //一応10秒待ちます 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //受信完了 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //「0」を受信しました。 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行します：null 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //cmd.exe /c call null 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行中 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //実行終了 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //一応10秒待ちます 
+2023-03-09 21:39 INFO  SocketTest.server :
+                 //受信完了 

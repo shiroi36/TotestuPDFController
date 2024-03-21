@@ -1,0 +1,22 @@
+2023-03-10 11:06 INFO  SocketTest.server :
+                 ----------受信テストパッケージ開始---------- 
+2023-03-10 11:06 INFO  SocketTest.server :
+                     myIPsetting.xml：ポート番号：11000 
+2023-03-10 11:06 INFO  SocketTest.server :
+                     myIPsetting.xml：実行プログラム一覧&Runnable作成 
+2023-03-10 11:06 INFO  SocketTest.server :
+                     myIPsetting.xml：(0 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 11:06 INFO  SocketTest.server :
+                     myIPsetting.xml：(1 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 11:06 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:06 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-03-10 11:06 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-03-10 11:06 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 11:06 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-03-10 11:06 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 

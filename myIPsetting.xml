@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<div>
+      <binfo>
+            <!-- SocketTest.clientで絶対必要 -->
+            <ip>localhost</ip>
+            <!-- ここは数字限定にしました -->
+            <port>11000</port>
+      </binfo>
+      <engines>
+
+            <engine>
+                  <!-- sign；0になったらfile；を呼び出して実行する。 -->
+                  <!-- batfileだが、必ず最終行にexitコマンドをしないと、たぶんずーっとプログラムは終了待ちになる -->
+                  <eid>"stkr-write"</eid>
+                  <sign>f00</sign>
+                  <batfile>C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat</batfile>
+            </engine>
+
+            <engine>
+                  <eid>"stkr-read"</eid>
+                  <sign>f01</sign>
+                  <batfile>C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat</batfile>
+            </engine>
+
+            <engine>
+                  <eid>"ripc-write"</eid>
+                  <sign>f02</sign>
+                  <batfile>C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\TtotetuPDFcontroller_start.bat</batfile>
+            </engine>
+
+            <engine>
+                  <eid>"ripc-read"</eid>
+                  <sign>f03</sign>
+                  <batfile>C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat</batfile>
+            </engine>
+
+            <engine>
+                  <eid>"read-all"</eid>
+                  <sign>f04</sign>
+                  <batfile>C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat</batfile>
+            </engine>
+
+      </engines>
+
+</div>

@@ -1,0 +1,416 @@
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H28742 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H446X199X8/12 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=9.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=4 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=9 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=5274 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0098 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=363 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=459 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=29 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H28742 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H446X199X8/12 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=7.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=456 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0096 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=372 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=475 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=27 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H28742 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H446X199X8/12 1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=10.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=2 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=2 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=12 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=7812 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0100 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=362 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=462 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=28 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H30605 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H450X200X9/14 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=9.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=674 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0088 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=368 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=469 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=27 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H27850 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H582X300X12/17 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=7.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=931 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0058 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=309 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=435 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=27 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H27850 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H588X300X12/20 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=7.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=1 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=3 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=3087 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0030 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=322 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=441 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=29 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H27850 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H588X300X12/20 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=7.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=2 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=6 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=6174 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0030 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=322 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=441 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=29 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 2023/5/30 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 1H27850 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 size=H588X300X12/20 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 length=9.0M 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bundles=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 piece=2 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 totalpiece=2 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 weight=2646 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 charge.No=U9-0049 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yield point=322 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 tensile strength=446 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 yieldratio=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 elongation=26 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 bendingtest=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttest3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 impacttestAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics1=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics2=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristics3=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 Through-thicknessCharacteristicsAVG=- 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 UT=G 
+2023-06-05 15:02 INFO  totetsu1.TotetsuHsectionController :
+                 äTäœ=G 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 
+2023-06-05 15:02 ERROR totetsu1.TotetsuHsectionController :
+                 ìåìSÇÃPDFÇ≈ÇÕÇ†ÇËÇ‹ÇπÇÒÅB 

@@ -1,0 +1,380 @@
+2023-03-10 09:38 INFO  SocketTest.server :
+                 送受信テストパッケージ開始 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 ポート番号：11000 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 実行プログラム一覧&スレッド作成 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 (0 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 (1 , files\totetuPDFcontroller_start.bat) 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 受信しました： 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 「0」を受信しました。 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 [0]と[0]を比較しています 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 NEW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 [1]と[0]を比較しています 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 実行します：files\totetuPDFcontroller_start.bat 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 受信完了 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 実行終了しました 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 受信しました： 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 「0」を受信しました。 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 [0]と[0]を比較しています 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 TERMINATED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 null 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 スレッドが実行されませんでした。 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 信号は正常に処理されていません。 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:38 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:38 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 受信しました： 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 「0」を受信しました。 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 [0]と[0]を比較しています 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 TERMINATED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 null 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 スレッドが実行されませんでした。 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 信号は正常に処理されていません。 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 接続開始します： 
+2023-03-10 09:39 ERROR SocketTest.server :
+                 Address already in use: bind 
+2023-03-10 09:39 INFO  SocketTest.server :
+                 一応1秒待ちます 

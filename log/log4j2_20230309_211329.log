@@ -1,0 +1,12 @@
+2023-03-09 21:13 INFO  SocketTest.server :
+                 //送受信テストパッケージ開始 
+2023-03-09 21:13 INFO  SocketTest.server :
+                 //ポート番号：11000 
+2023-03-09 21:13 INFO  SocketTest.server :
+                 //[0] 
+2023-03-09 21:13 INFO  SocketTest.server :
+                 //[C:\Users\keita\OneDrive\00_22webclamp\
+            01_東京工場\2023年3月8日東鉄ミルシートプログラム\
+            東鉄ミルシート読み取りプログラム\start.bat] 
+2023-03-09 21:13 ERROR SocketTest.server :
+                 //Address already in use: bind 

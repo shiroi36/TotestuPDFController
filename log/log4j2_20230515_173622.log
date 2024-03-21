@@ -1,0 +1,24 @@
+2023-05-15 17:36 INFO  SocketTest.server :
+                 ----------受信テストパッケージ開始---------- 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：ポート番号：11000 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：実行プログラム一覧&Runnable作成 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：(f00 , C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat , "stkr-write") 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：(f01 , C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat , "stkr-read") 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：(f02 , C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\TtotetuPDFcontroller_start.bat , "ripc-write") 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：(f03 , C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat , "ripc-read") 
+2023-05-15 17:36 INFO  SocketTest.server :
+                     myIPsetting.xml：(f04 , C:\Users\keita\Documents\NetBeansProjects\TotestuPDFController\files\totetuPDFcontroller_start.bat , "read-all") 
+2023-05-15 17:36 INFO  SocketTest.server :
+                 --------------------------------------------------------------------- 
+2023-05-15 17:36 INFO  SocketTest.server :
+                 サーバー       ：一応1秒待ちます 
+2023-05-15 17:36 INFO  SocketTest.server :
+                 サーバー       ：接続開始します 
+2023-05-15 17:36 INFO  SocketTest.server :
+                 サーバー       ：接続開始しました。信号を待ちます。 

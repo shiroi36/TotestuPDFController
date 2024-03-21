@@ -1,0 +1,2 @@
+2023-05-15 17:29 ERROR SocketTest.SQL_OPE :
+                 No suitable driver found for  jdbc:h2:tcp://localhost/./serverlog 
