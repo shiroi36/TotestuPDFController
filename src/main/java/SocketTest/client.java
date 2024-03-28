@@ -29,7 +29,7 @@ public class client {
     public static void main(String[] args)  {
         // TODO code application logic here
         
-//        args=new String[]{"0"};
+        args=new String[]{"f00"};
         Logger log = LogManager.getLogger(client.class);
         if(args.length!=1){
             log.error("コマンドライン引数がありません。");

@@ -1,0 +1,6 @@
+2024-03-26 12:31 INFO  SocketTest.client :
+                 コマンドライン引数がありました。 
+2024-03-26 12:31 INFO  SocketTest.client :
+                 myIPsetting.xml：ip:localhost	portnum:11000 
+2024-03-26 12:31 INFO  SocketTest.client :
+                 サーバー　　　：「f00」を送信しました。 

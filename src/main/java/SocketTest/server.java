@@ -235,11 +235,12 @@ public class server {
                 try {
                     ProcessBuilder pb = new ProcessBuilder();
                     pb.command(file);
-                    pb.redirectOutput(ProcessBuilder.Redirect.DISCARD);
-                    pb.redirectError(ProcessBuilder.Redirect.DISCARD);
+                    //javaを更新したら使用できなくなってた2024年3月26日
+//                    pb.redirectOutput(ProcessBuilder.Redirect.DISCARD);
+//                    pb.redirectError(ProcessBuilder.Redirect.DISCARD);
 //                    以下の設定はstdoutをjava上に表示する
-//                    pb.redirectOutput(ProcessBuilder.Redirect.INHERIT);
-//                    pb.redirectError(ProcessBuilder.Redirect.INHERIT);
+                    pb.redirectOutput(ProcessBuilder.Redirect.INHERIT);
+                    pb.redirectError(ProcessBuilder.Redirect.INHERIT);
                     Process process;
                     process = pb.start();
                     process.waitFor();
